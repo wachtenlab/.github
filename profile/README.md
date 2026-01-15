@@ -1,4 +1,4 @@
-## Wachtenlab
+### Wachtenlab
 
 **Wachtenlab** is the GitHub organization of the **Prof. Dr. Dagmar Wachten Lab** at the *Institute of Innate Immunity, University of Bonn*.
 
